@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="border-t border-neutral-200/60 py-10 dark:border-neutral-800/60">
       <Container>
         <p className="text-center text-sm text-neutral-600 dark:text-neutral-300">
-          © {new Date().getFullYear()} • Làm với React, Tailwind & Framer Motion.
+          © {new Date().getFullYear()} • Làm với React-Native, Tailwind, Node.js, MongoDB ... 
         </p>
       </Container>
     </footer>
