@@ -22,3 +22,6 @@ npm run build && npm run preview
 - `src/sections/*`: các section Hero, About, Skills, Projects, Contact.
 - `src/components/*`: các component dùng chung.
 - `src/config/personal.js`: dữ liệu cá nhân dễ thay.
+
+# Profile
+Giới thiệu bản thân
